@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/webinar_volume_thumb_drawable"
+        android:left="26dp"
+        android:right="26dp"
+        android:top="26dp"
+        android:bottom="26dp">
+        <shape android:shape="oval">
+            <stroke
+                android:width="2px"
+                android:color="#e2e2e2"/>
+            <solid android:color="@color/transparent" />
+            <size
+                android:width="22dp"
+                android:height="22dp"/>
+        </shape>
+    </item>
+    <!--<item-->
+    <!--&gt;-->
+    <!--<shape android:shape="rectangle">-->
+    <!--<solid android:color="@color/transparent" />-->
+    <!--</shape>-->
+    <!--</item>-->
+</layer-list>
